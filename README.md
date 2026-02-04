@@ -8,6 +8,8 @@ This project consists of an analysis of a network security incident involving **
 * **Symptoms:** Customers reported "destination port unreachable" errors when trying to load the website.
 * **Tools Used:** `tcpdump` for packet capture and log analysis.
 
+* ![Análisis de Tráfico DNS](referencia%201.png)
+
 ## Key Findings & Analysis
 Based on the `tcpdump` log analysis, the following technical details were identified:
 
